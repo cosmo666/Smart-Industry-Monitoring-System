@@ -2,10 +2,10 @@
 
 Processor: Node MCU.
 
-Sensors:DHT 11
-        MQ2
+Sensors:DHT 11.
+        MQ2.
         PIR Motion Sensor.
         
-Software: Arduino IDE
+Software: Arduino IDE.
           Blynk App.
         
