@@ -2,8 +2,8 @@
 
 Processor: Node MCU.
 
-Sensors:DHT 11,
-        MQ2,
+Sensors:DHT 11(Temperature and Humidity),
+        MQ2(Smoke),
         PIR Motion Sensor.
         
 Software: Arduino IDE,
